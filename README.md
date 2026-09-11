@@ -24,12 +24,26 @@ See the prompts and results in `/visuals` folder.
 | Lifestyle Shot | Model with glowing skin holding product |
 | Flat Lay | Product with roses, gold rings, silk fabric |
 
+All visuals were generated using Leonardo.ai with custom prompts.
+
+### Hero Shot
+![Hero Shot](visuals/hero-shot.jpg)
+
+### Texture Shot
+![Texture Shot](visuals/texture-shot.jpg)
+
+### Lifestyle Shot
+![Lifestyle Shot](visuals/lifestyle-shot.jpg)
+
+### Flat Lay
+![Flat Lay](visuals/flat-lay.jpg)
 ---
 
-### 🎬 Product Video / Reel
-15-second AI product video created with Kling AI, edited in CapCut.
+## 🎬 Product Video / Reel
 
-W
+https://github.com/elfakbdm/aura-skin-campaign/raw/main/video/aura-skin-reel.mp4
+
+> 15-second AI product video created with Kling AI, edited in CapCut.
 Scenes:
 - 0 to 3 sec — Hero shot with cinematic light movement
 - 3 to 7 sec — Golden drop slow motion macro
